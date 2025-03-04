@@ -1,2 +1,2 @@
 Hello Artifactory and Sonar
-update file
+update file for pipeline
