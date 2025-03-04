@@ -1,2 +1,2 @@
 Hello Artifactory and Sonar
-update file for pipeline
+update file for pipeline CI/CD
